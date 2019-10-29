@@ -1,12 +1,19 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Ipixel
+email: Ipixel
+description: > Ipixel help your bunsiness to grow, we work with Design, marketing and web sites
+baseurl: ""
+url: "https://www.ipixel.com"
 
-twitter_username:
-github_username:
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - vendor/bundle
+  - .gitignore
+  - .editorconfig
+  - Makefile
+
 
 # Build settings
 markdown: kramdown
