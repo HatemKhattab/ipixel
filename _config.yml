@@ -14,6 +14,12 @@ exclude:
   - .editorconfig
   - Makefile
 
+# Plugins
+plugins:
+  - jekyll-multiple-languages-plugin
 
 # Build settings
 markdown: kramdown
+
+#Languages
+languages: ["sv", "en", "ar"]
