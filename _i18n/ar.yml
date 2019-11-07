@@ -1,1 +1,10 @@
-language: swidi
+language: عربي
+section:
+  about:
+    name: من نحن
+  contact:
+    name: اتصل بنا
+  project:
+    name: اعمالنا
+  services:
+    name: خدماتنا

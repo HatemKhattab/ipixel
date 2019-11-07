@@ -1,1 +1,10 @@
 language: Svenska
+section:
+  about:
+    name: Om oss
+  contact:
+    name: Kontakta oss
+  project:
+    name: Projekt
+  services:
+    name: Tjänster

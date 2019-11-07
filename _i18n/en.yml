@@ -1,1 +1,10 @@
 language: English
+section:
+  about:
+    name: About
+  contact:
+    name: Contact us
+  project:
+    name: Project
+  services:
+    name: Services
