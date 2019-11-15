@@ -11,3 +11,4 @@
 .env
 info.txt
 .localeapp
+.DS_Store
