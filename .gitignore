@@ -1,1 +1,13 @@
+/vendor
+/_site
+.*.swp
+.*.swo
+.*.swa
+*.swp
+.DS_store
+.sass-cache
+.idea
+.bundle
+.env
+info.txt
 _site
