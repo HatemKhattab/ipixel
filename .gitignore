@@ -11,3 +11,4 @@
 .env
 info.txt
 _site
+.DS_Store
