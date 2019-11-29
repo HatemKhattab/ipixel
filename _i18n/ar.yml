@@ -1,10 +1,33 @@
-language: عربي
-section:
-  about:
-    name: من نحن
-  contact:
-    name: اتصل بنا
-  project:
-    name: اعمالنا
-  services:
-    name: خدماتنا
+ar:
+  header:
+    title: 
+  language: عربي
+  section:
+    about:
+      name: من نحن
+      text: 
+      title: 
+    contact:
+      name: اتصل بنا
+      text: 
+      title: 
+    header:
+      title: 
+    project:
+      see_more: 
+      title: اعمالنا
+    services:
+      graphic_design:
+        text: 
+        title: 
+      marketing:
+        text: 
+        title: 
+      name: خدماتنا
+      title: 
+      ux:
+        text: 
+        title: 
+      web_development:
+        text: 
+        title: 

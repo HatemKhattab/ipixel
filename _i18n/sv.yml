@@ -1,10 +1,33 @@
-language: Svenska
-section:
-  about:
-    name: Om oss
-  contact:
-    name: Kontakta oss
-  project:
-    name: Projekt
-  services:
-    name: Tjänster
+
+  header:
+    title: Din partner för att etablera ditt företag närvaro p digitala världen
+  language: Svenska
+  section:
+    about:
+      name: Om oss
+      text: Vi hjälper ditt företag för att lyckas på nätet, Kanske du behöver en marknadsföring på webben och sociala medier, eller du behöver att skapa en ny logga som representerar ditt företag på ett bra sätt, eller om du behöver ny hemsida eller omdesign till ditt befintlig hemsida eller kanske en film produktion som presentera dig till digala världen, vår kompetense slutar inte här, vi är pofs på att lyfta ditt företag onlie narvarö fram.
+      title: Ipixel är en Digitalbyrå som erbjuder strålande digitallö tjänster till ditt företag Alltifrån digital Design och webutveckling till marknadföring
+    contact:
+      name: Kontakta oss
+      text: 'Tveka inte att kontakta oss om du du har en ide eller om du behöver hjälp med ditt online närvaro   '
+      title:
+    header:
+      title: Vi hjälper dig att synas på digitala världen
+    project:
+      see_more: Se mer av vårt jobb
+      title: Projekt
+    services:
+      graphic_design:
+        text: Vi utför allt inom grafisk design inte minst loggo, visitkort, broschyr, reklam även vi kan skapa en film som presenterar ditt företag och dina tjänster och produkter .
+        title: Grafisk Design
+      marketing:
+        text: Det blir mer viktig och nödvändigt till ditt företag att använda marknadsföring på det absolut maximala sätt, vi hjälper dig att nå flera kunder på webben och mobilen, vi hjälper ditt företag att locka fler kunder, och visa ditt företag på ett attraktiv sätt.
+        title: Marknadsföring
+      name: Tjänster
+      title: Våra Tjänster
+      ux:
+        text: det handlar inte om bara att presentera ditt företag och visa dina tjänster och produkter, kunden känslan är oerhört viktig för ditt framgång, vi på ipixel är professionella att höga ditt brand till högsta nivå och vet hur vi kan inspirera kunden, vi hjälper dig att designera ditt web plats eller ditt mobil app för att blir mer attraktiv, kund upplevelse är vårt främsta mål när vi jobbar på UX/UI.
+        title: UX/UI
+      web_development:
+        text: 'Du kan anlita oss att skapa ditt företag webbsida som presentera ditt företag på ett pålitligt sätt, eller kanske du behöver ett system som förenklar ditt arbetssätt, system som kan hjälpa dig att hantera dina tjänster, produkter, online bokningar  och integrera det men externa system. '
+        title: Webbutveckling

@@ -1,10 +1,33 @@
-language: English
-section:
-  about:
-    name: About
-  contact:
-    name: Contact us
-  project:
-    name: Project
-  services:
-    name: Services
+en:
+  header:
+    title: 
+  language: English
+  section:
+    about:
+      name: About us
+      text: 
+      title: 
+    contact:
+      name: Contact us
+      text: 
+      title: 
+    header:
+      title: 
+    project:
+      see_more: 
+      title: Project
+    services:
+      graphic_design:
+        text: 
+        title: 'vi leverar olika design möjligheter som logga , reklam design, film produktion, Visitkort och reklam omslag till ditt företag bil,   '
+      marketing:
+        text: 
+        title: 
+      name: Services
+      title: 
+      ux:
+        text: 
+        title: 
+      web_development:
+        text: 
+        title: 
