@@ -6,7 +6,7 @@
     about:
       name: Om oss
       text: Vi hjälper ditt företag för att lyckas på nätet, Kanske du behöver en marknadsföring på webben och sociala medier, eller du behöver att skapa en ny logga som representerar ditt företag på ett bra sätt, eller om du behöver ny hemsida eller omdesign till ditt befintlig hemsida eller kanske en film produktion som presentera dig till digala världen, vår kompetense slutar inte här, vi är pofs på att lyfta ditt företag onlie narvarö fram.
-      title: Ipixel är en Digitalbyrå som erbjuder strålande digitallö tjänster till ditt företag Alltifrån digital Design och webutveckling till marknadföring
+      title: Ipixel är en Digitalbyrå som erbjuder strålande digitala tjänster till ditt företag Alltifrån digital Design och webutveckling till marknadföring
     contact:
       name: Kontakta oss
       text: 'Tveka inte att kontakta oss om du du har en ide eller om du behöver hjälp med ditt online närvaro   '
@@ -14,6 +14,7 @@
     header:
       title: Vi hjälper dig att synas på digitala världen
     project:
+      name: Våra projekt
       see_more: Se mer av vårt jobb
       title: Projekt
     services:
