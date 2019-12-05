@@ -71,7 +71,7 @@ aside {
 
 .navbar-default {
     background-color: white;
-    border-color: rgba($theme-dark, .5);
+    border-color: rgba($theme-dark, .9);
     @include sans-serif-font;
     @include transition-all;
     .navbar-header .navbar-brand {
@@ -112,7 +112,8 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            //color: rgba(white, .7);
+          //  color: rgba(white, .7);
             &:hover,
             &:focus {
                 color: white;
@@ -120,9 +121,10 @@ aside {
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            //color: rgba(white, .7);
+            color: $theme-gray;
             &:hover {
-                color: white;
+                color: $theme-primary;
             }
         }
         &.affix {
@@ -155,9 +157,9 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/header.png');
     text-align: center;
-    color: white;
+    color: $theme-gray;
     .header-content {
         position: relative;
         text-align: center;
