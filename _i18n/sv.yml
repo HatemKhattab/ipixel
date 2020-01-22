@@ -11,23 +11,23 @@ section:
     text: Tveka inte att kontakta oss om du du har en idé eller om du behöver ha hjälp med ditt online närvaro
     title: 
   header:
-    title: vi hjälper dig att präglas på digitala världen
+    title: "vi hjälper dig att \npräglas på digitala världen"
   project:
     name: Våra projekt
-    see_more: mer om vårt jobb
+    see_more: se mer om vårt jobb
     title: Nyfiken på vad vi har gjort?
   services:
     graphic_design:
-      text: "###Vi utför allt inom grafisk design inte minst loggo, visitkort, broschyr, reklam även vi kan skapa en film som presenterar ditt företag och dina tjänster och produkter ."
+      text: Grafisk content som höja ditt varumärke, för ditt webbsidan, social medier och annat.
       title: Grafisk design
     marketing:
-      text: Det blir mer viktig och nödvändigt till ditt företag att använda marknadsföring på det absolut maximala sätt, vi hjälper dig att nå flera kunder på webben och mobilen, vi hjälper ditt företag att locka fler kunder, och visa ditt företag på ett attraktiv sätt.
-      title: Marknadsföring
+      text: Effektive annonsering utifrån era behöv för att locka fler kunder och starka ditt online närvaro.
+      title: Digital Marknadsföring
     name: Våra tjänster
     title: Våra tjänster
     ux:
-      text: det handlar inte om bara att presentera ditt företag och visa dina tjänster och produkter, kunden känslan är oerhört viktig för ditt framgång, vi på ipixel är professionella att höga ditt brand till högsta nivå och vet hur vi kan inspirera kunden, vi hjälper dig att designera ditt web plats eller ditt mobil app för att blir mer attraktiv, kund upplevelse är vårt främsta mål när vi jobbar på UX/UI.
+      text: Effektiv, attraktive och kund anpassande design för webbsidor och mobila appar.
       title: UX/UI
     web_development:
-      text: 'Du kan anlita oss att skapa ditt företag webbsida som presentera ditt företag på ett pålitligt sätt, eller kanske du behöver ett system som förenklar ditt arbetssätt, system som kan hjälpa dig att hantera dina tjänster, produkter, online bokningar  och integrera det men externa system. '
+      text: Hemsidor och webbplattformar  som presentera ditt företag och höja konvertering
       title: Webbutveckling
