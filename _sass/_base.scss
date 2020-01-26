@@ -10,8 +10,8 @@ body {
 
 hr {
     border-color: $theme-primary;
-    border-width: 3px;
-    max-width: 50px;
+    border-width: 2px;
+    max-width: 180px;
 }
 
 hr.light {
@@ -52,7 +52,7 @@ p {
 }
 
 .text-faded {
-    color: rgba(white, .7);
+    color: rgba(white, 180.7);
 }
 
 section {
