@@ -1,3 +1,4 @@
+
 header:
   title: Din partner som erbjuder dig hjälp och råd samt leverans av viktiga tjänster i den digitala världen.
 language: Svenska
@@ -7,6 +8,12 @@ section:
     text: Som din partner i den digitala världen finns vi alltid till för att hjälpa ditt företag att lyckas på nätet. Vi erbjuder digital marknadsföring på webben och sociala medier, skapar ny logga som representerar ditt företag på ett bra sätt, skapa en hemsida, ny design till befintlig hemsida, producerar film som representerar dig i den digitala världen. Vi är även proffs på att lyfta ditt företags online närvaro.
     title: Ipixel hjälper dig i den digitala världen
   contact:
+    fields:
+      email: E-post
+      message: Medddelande
+      name: Namn
+      send: Skicka
+      tel_nr: Tel nr
     name: Kontakta oss
     text: Tveka inte att kontakta oss om du du har en idé eller om du behöver ha hjälp med ditt online närvaro
     title: 

@@ -14,32 +14,27 @@
             <form action="https://formspree.io/xjvvdbea" method="POST" enctype="multipart/form-data">
 
               <div class="form-group">
-                <label for="form_name">Namn</label>
+                <label for="form_name">{%t section.contact.fields.name%}</label>
                 <input type="form_name" class="form-control" id="form_name" placeholder="" name="name">
               </div>
 
               <div class="form-group">
-                <label for="form_email">Epost</label>
+                <label for="form_email">{%t section.contact.fields.email%}</label>
                 <input type="email" class="form-control" id="form_email" aria-describedby="emailHelp" name="email">
                 <small id="emailHelp" class="form-text text-muted"></small>
               </div>
 
               <div class="form-group">
-                <label for="form_tel">Tel nr</label>
+                <label for="form_tel">{%t section.contact.fields.tel_nr%}</label>
                 <input type="" class="form-control" id="form_tel" placeholder="" name="tel">
               </div>
 
               <div class="form-group">
-                <label for="form_message">Medddelande</label>
+                <label for="form_message">{%t section.contact.fields.message%}</label>
                 <textarea type="textarea" class="form-control" id="form_message" placeholder="" name="message"></textarea>
               </div>
 
-              <div class="form-group">
-                <label for="form_file">Ladda en fil</label>
-                <input type="file" class="form-control" id="form_file" placeholder="" name="file">
-              </div>
-
-              <button type="submit" class="btn btn-primary"">Skicka</button>
+              <button type="submit" class="btn btn-primary"">{%t section.contact.fields.send%}</button>
 
             </form>
 

@@ -8,6 +8,12 @@ en:
       text: 
       title: 
     contact:
+      fields:
+        email: 
+        message: 
+        name: 
+        send: 
+        tel_nr: 
       name: Contact us
       text: 
       title: 
