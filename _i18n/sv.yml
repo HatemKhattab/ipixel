@@ -1,4 +1,3 @@
-
 header:
   title: Din partner som erbjuder dig hjälp och råd samt leverans av viktiga tjänster i den digitala världen.
 language: Svenska
@@ -10,31 +9,31 @@ section:
   contact:
     fields:
       email: E-post
-      message: Medddelande
+      message: Meddelande
       name: Namn
       send: Skicka
-      tel_nr: Tel nr
+      tel_nr: Tel. nr.
     name: Kontakta oss
-    text: Tveka inte att kontakta oss om du du har en idé eller om du behöver ha hjälp med ditt online närvaro
+    text: Behöver du hjälp? meddela oss dina idéer och tankar
     title: 
   header:
-    title: "vi hjälper dig att \npräglas på digitala världen"
+    title: "Ta ditt företag till en helt ny nivå \ni den digitala världen"
   project:
     name: Våra projekt
-    see_more: se mer om vårt jobb
+    see_more: se mer av vårt jobb
     title: Nyfiken på vad vi har gjort?
   services:
     graphic_design:
-      text: Grafisk content som höja ditt varumärke, för ditt webbsidan, social medier och annat.
+      text: Grafisk content som höjer ditt varumärke, i din webbsida, på sociala medier och annat.
       title: Grafisk design
     marketing:
-      text: Effektive annonsering utifrån era behöv för att locka fler kunder och starka ditt online närvaro.
+      text: Effektiv annonsering utifrån era behov för att locka allt fler kunder och stärka din online närvaro.
       title: Digital Marknadsföring
     name: Våra tjänster
     title: Våra tjänster
     ux:
-      text: Effektiv, attraktive och kund anpassande design för webbsidor och mobila appar.
+      text: Effektiv, attraktiv och kundanpassad design för webbsidor och mobila appar.
       title: UX/UI
     web_development:
-      text: Hemsidor och webbplattformar  som presentera ditt företag och höja konvertering
+      text: Hemsidor och webbplattformar  som presenterar ditt företag och höjer konverteringen
       title: Webbutveckling
