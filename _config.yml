@@ -24,3 +24,9 @@ markdown: kramdown
 #Languages
 languages: ["sv", "en", "ar"]
 #exclude_from_localizations: ["js", "img", "fonts", "css", "font-awsome"]
+
+contentful:
+  spaces:
+    - links: 
+        space: ENV_CONTENTFUL_IPIXEL_SPACE               
+        access_token: ENV_CONTENTFUL_IPIXEL_TOKEN        

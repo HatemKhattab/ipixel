@@ -5,4 +5,5 @@ gem 'localeapp'
 
 group :jekyll_plugins do
   gem 'jekyll-multiple-languages-plugin'
+  gem "jekyll-contentful-data-import"
 end
