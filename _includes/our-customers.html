@@ -1,0 +1,46 @@
+<h1>Flickity - groupCells</h1>
+
+<!-- Flickity HTML init -->
+<div class="carousel" data-flickity='{ "groupCells": false }'>
+  <div class="carousel-cell">
+    <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+  </div>
+  <div class="carousel-cell">
+    <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+  </div>
+  <div class="carousel-cell">
+    <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+  </div>
+  <div class="carousel-cell">
+    <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+  </div>
+  <div class="carousel-cell"></div>
+
+</div>
+
+<style>
+  /* external css: flickity.css */
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+.carousel {
+  background: #EEE;
+}
+
+.carousel-cell {
+  width: 200px;
+  height: 200px;
+  margin-right: 5px;
+  background: #8C8;
+  border-radius: 0px;
+  counter-increment: carousel-cell;
+}
+
+/* .carousel-cell.is-selected {
+  background: #ED2;
+} */
+
+
+</style>
