@@ -1,46 +1,59 @@
-<h1>Flickity - groupCells</h1>
 
-<!-- Flickity HTML init -->
-<div class="carousel" data-flickity='{ "groupCells": false }'>
-  <div class="carousel-cell">
-    <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+<section class="no-padding our-customers" id="our-customers">
+  <div class="container" >
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Våra kunder</h2>
+              <hr class="primary">
+          </div>
+      </div>
   </div>
-  <div class="carousel-cell">
-    <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
-  </div>
-  <div class="carousel-cell">
-    <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
-  </div>
-  <div class="carousel-cell">
-    <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
-  </div>
-  <div class="carousel-cell"></div>
+  <div class="container-fluid">
+    <div class="row no-gutter">
+    
+      <div class="carousel" data-flickity='
+      { 
+        "groupCells": false,
+        "cellAlign": "center",
+        "cellSelector": "",
+        "wrapAround": false,
+        "draggable": true,
+        "contain": true
 
-</div>
+      }'>
+        <div class="carousel-cell">
+          <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+        </div>
+        <div class="carousel-cell">
+          <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+        </div>
+        <div class="carousel-cell">
+          <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+        </div>
+        <div class="carousel-cell">
+          <img src="https://source.unsplash.com/200x200" class="img-responsive"> 
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 <style>
-  /* external css: flickity.css */
 
-* { box-sizing: border-box; }
+  .carousel {
+    background: #fff;
+    align-items: center;
+  }
 
-body { font-family: sans-serif; }
+  .carousel-cell {
+    width: 22%;
+    height: 200px;
+    background: #fff;
+    border-radius: 0px;
+  }
 
-.carousel {
-  background: #EEE;
-}
-
-.carousel-cell {
-  width: 200px;
-  height: 200px;
-  margin-right: 5px;
-  background: #8C8;
-  border-radius: 0px;
-  counter-increment: carousel-cell;
-}
-
-/* .carousel-cell.is-selected {
-  background: #ED2;
-} */
-
-
+  .carousel-cell img {
+    margin: auto;
+  }
 </style>
